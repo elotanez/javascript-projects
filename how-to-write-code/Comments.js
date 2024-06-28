@@ -10,3 +10,8 @@
    comments. */
 
    console.log("Comments make your code more readable by others.");
+// hey
+/* Write
+multiline
+comments*/
+//hey
